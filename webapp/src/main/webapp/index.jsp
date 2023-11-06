@@ -15,6 +15,10 @@
     <label for="Name"><b>Enter Middle Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
+
+    <label for="country"><b>Enter country name</b></label>
+    <input type="text" placeholder="Enter country name" name="country" id="country" required>
+    <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
