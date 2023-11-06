@@ -11,6 +11,10 @@
     <label for="Name"><b>Enter SurName</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
+
+    <label for="Name"><b>Enter Middle Name</b></label>
+    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
