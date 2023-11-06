@@ -16,7 +16,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
-    <label for="country"><b>Enter country name</b></label>
+    <label for="country"><b>Enter Country Name</b></label>
     <input type="text" placeholder="Enter country name" name="country" id="country" required>
     <br>
     
