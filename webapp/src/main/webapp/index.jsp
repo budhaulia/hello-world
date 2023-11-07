@@ -19,6 +19,11 @@
     <label for="country"><b>Enter Your Country Name</b></label>
     <input type="text" placeholder="Enter country name" name="country" id="country" required>
     <br>
+
+    <label for="country-Code"><b>Enter Your Country Code</b></label>
+    <input type="text" placeholder="Enter Country Code" name="Country-Code" id="Country-Code" required>
+    <br>
+
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
