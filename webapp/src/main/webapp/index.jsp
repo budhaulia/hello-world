@@ -20,7 +20,7 @@
     <input type="text" placeholder="Enter country name" name="country" id="country" required>
     <br>
 
-    <label for="country-Code"><b>Enter Your Country Code Number</b></label>
+    <label for="country-Code"><b>Enter Your Country Code</b></label>
     <input type="text" placeholder="Enter Country Code" name="Country-Code" id="Country-Code" required>
     <br>
 
