@@ -9,11 +9,11 @@
     <br>
 
     <label for="Name"><b>Enter SurName</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter SurName" name="Name" id="Name" required>
     <br>
 
     <label for="Name"><b>Enter Middle Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter Middle Name" name="Name" id="Name" required>
     <br>
 
     <label for="country"><b>Enter Your Country Name</b></label>
@@ -21,16 +21,16 @@
     <br>
 
     <label for="country-Code"><b>Enter Your Country Code</b></label>
-    <input type="text" placeholder="Enter Country Std Code" name="Country-Code" id="Country-Code" required>
+    <input type="text" placeholder="Enter Your Country Code" name="Country-Code" id="Country-Code" required>
     <br>
 
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter mobile number</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <label for="email"><b>Enter Your Email</b></label>
+    <input type="text" placeholder="Enter Your Email" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
